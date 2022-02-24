@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Santiago Alé, or Santi if you want :)
-- 👀 I’m interested in new technologies, be part of IT world and 
+- 👀 I’m interested in new technologies, be part of IT world and code till the end
 - 🌱 I’m currently learning Laravel and Node.Js
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me: contact@santiascode.com or santi93.13@gmail.com
