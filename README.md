@@ -10,6 +10,7 @@ A passionate and curious tech and nature lover, based in Argentina 🧉, living 
 Welcome to my GitHub corner!
 
 If you want to see the spanish README have a look [here](./README.es.md)
+
 Si quiere ver el README en español puede verlo [aquí](./README.es.md)
 
 ## About Me

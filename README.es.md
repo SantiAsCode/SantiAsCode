@@ -10,6 +10,7 @@ Un amante de la tecnología y la naturaleza apasionada y curiosa, con sede en Ar
 ¡Bienvenido a mi esquina de Github!
 
 Si quiere ver el README en inglés puede verlo [aquí](./README.md)
+
 If you want to see the english README have a look [here](./README.md)
 
 ## Acerca de mí
