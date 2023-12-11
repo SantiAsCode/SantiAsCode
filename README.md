@@ -55,7 +55,7 @@ Even if I cannot show you those projects 🙌, I can tell you a little bit about
 
 ### Notimation Panel
 
-- Main project of the company, deployed and in a productive state since 2019.
+- Main project of the company, deployed and in a productive state since 2019. [Notimation Landing Page](https://notimation.com/en)
 
 - Tasks:
   - Team Leader

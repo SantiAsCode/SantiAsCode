@@ -55,7 +55,7 @@ Incluso si no puedo mostrarte esos proyectos 🙌, puedo contarte un poco sobre 
 
 ### Panel de notimación
 
-- Proyecto principal de la empresa, desplegado y en un estado productivo desde 2019.
+- Proyecto principal de la empresa, desplegado y en un estado productivo desde 2019. [Landing Page de Notimation](https://notimation.com/es)
 
 - Tareas:
   - Jefe de equipo
