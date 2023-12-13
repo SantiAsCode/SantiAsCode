@@ -76,7 +76,7 @@ Tasks:
 - Development of new features
 - Migration of features from the main project
 
-### PowerApps
+### PowerApps Project
 
 Independent project that hosts some core features for a new service, related with other apps and projects. Ongoing development since Oct, 2022. Currently, in a migration state to a more stable and scalable architecture.
 

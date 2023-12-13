@@ -76,9 +76,9 @@ Tareas:
 - Desarrollo de nuevas características
 - Migración de características del proyecto principal
 
-### PowerApps
+### Proyecto PowerApps
 
-Proyecto independiente que aloja algunas características principales para un nuevo servicio, el cual está relacionado con otras aplicaciones y proyectos. En desarrollo desde octubre de 2022. Actualmente, en proceso de migración a una arquitectura más estable y escalable.
+Proyecto independiente que aloja algunas características principales para un nuevo servicio, el cual está relacionado con otras aplicaciones y proyectos. En desarrollo desde octubre de 2022. Actualmente, en proceso de migración a una arquitectura más estable y escalable previo a su próximo lanzamiento a mercado.
 
 Tareas:
 - Definición y decisión de aspectos arquitectónicos
