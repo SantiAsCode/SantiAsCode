@@ -41,6 +41,11 @@ Si quiere ver el README en español puede verlo [aquí](./README.es.md)
   - Docker
   - CloudFlare
 
+- 🛰️ Things I'm chewing:
+  - Python with FastAPI
+  - LLMs
+  - Nginx
+
 ## Connect with Me
 
 - 📫 How to reach me: contact@santiascode.dev
