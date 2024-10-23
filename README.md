@@ -15,7 +15,7 @@ Si quiere ver el README en español puede verlo [aquí](./README.es.md)
 
 ## About Me
 
-- 🦾 Working for the Argentinian startup Notimation, as the Laravel Team's Leader, Back-end Developer, in charge of DevOps tasks and as a Consultant for other projects.
+- 🦾 Working for the Indian agency UnicoConnect, as Software Engineer.
 
 - 🌱 Currently learning Python and exploring AI models usage to help with the company's projects, because I find it fascinating.
 
